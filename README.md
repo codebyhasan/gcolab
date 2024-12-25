@@ -1,7 +1,7 @@
 # 🌟 gcolabssh 🌟
 **Open Google Colab with VSCode and SSH**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codebyhasan/gcolabssh)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codebyhasan/gcolabssh/blob/main/gcolabssh.ipynb)
 
 🔗 [GitHub Repository](https://github.com/codebyhasan/gcolabssh)
 
